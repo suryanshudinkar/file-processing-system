@@ -1,0 +1,4 @@
+id,name,amount,currency,date
+1,John Doe,100.50,USD,01/15/2023
+2,Jane Smith,200.00,USD,02/10/2023
+3,,300.75,USD,03/05/2023

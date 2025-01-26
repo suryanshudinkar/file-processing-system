@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "amount": 100.50,
+    "currency": "USD",
+    "date": "01/15/2023"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "amount": 200.00,
+    "currency": "USD",
+    "date": "02/10/2023"
+  }
+]

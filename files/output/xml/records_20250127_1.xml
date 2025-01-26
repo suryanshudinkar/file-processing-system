@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<records>
+    <record>
+        <amount>200.5</amount>
+        <currency>EUR</currency>
+        <date>01/15/2025</date>
+        <id>2</id>
+        <name>Jane Smith</name>
+    </record>
+    <record>
+        <amount>99.99</amount>
+        <currency>GBP</currency>
+        <date>02/01/2025</date>
+        <id>3</id>
+        <name>Michael Johnson</name>
+    </record>
+</records>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Records>
+    <Record>
+        <id></id>
+        <name>John Doe</name>
+        <amount>150.75</amount>
+        <currency>USD</currency>
+        <date>2025-01-01</date>
+    </Record>
+    <Record>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <amount>200.50</amount>
+        <currency>EUR</currency>
+        <date>2025-01-15</date>
+    </Record>
+    <Record>
+        <id>3</id>
+        <name>Michael Johnson</name>
+        <amount>99.99</amount>
+        <currency>GBP</currency>
+        <date>2025-02-01</date>
+    </Record>
+</Records>

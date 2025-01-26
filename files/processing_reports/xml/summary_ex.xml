@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<processingSummary>
+    <failedRecords>1</failedRecords>
+    <fileName>ex.xml</fileName>
+    <processingTimeInSeconds>0</processingTimeInSeconds>
+    <successfulRecords>2</successfulRecords>
+    <totalRecords>3</totalRecords>
+</processingSummary>
